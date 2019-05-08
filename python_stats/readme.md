@@ -23,3 +23,7 @@ Edit with Google Colab
 +stats0508.ipynb
 
 大樣本信賴區間&檢定
+
+12:50
+
+新增注釋,修改輸出
