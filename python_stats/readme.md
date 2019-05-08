@@ -15,3 +15,11 @@ Edit with Google Colab
 
 
 修正錯誤/處理輸出/新增one-way Anova
+
+## 2019-05-08 10:35
+
+整合0507之內容,為stats0507.ipynb
+
++stats0508.ipynb
+
+大樣本信賴區間&檢定
