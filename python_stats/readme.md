@@ -27,3 +27,9 @@ Edit with Google Colab
 12:50
 
 新增注釋,修改輸出
+
+## 2019-05-10 20:07
+
+stats0507--修正敘述,處理輸出
+
+stats0508-新增ANOVA,修正錯誤
