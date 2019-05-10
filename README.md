@@ -48,3 +48,9 @@ scipy子模組stats統計筆記ipynb檔
 
   新增大樣本檢定之筆記檔,為stats0508.ipynb
 
+
+- 0510
+
+  stats0507--修正敘述,處理輸出
+
+  stats0508-新增ANOVA,修正錯誤
