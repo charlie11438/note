@@ -67,5 +67,14 @@
 
 
 - 0513
+
   
   新增Numpy pptx檔,code(.py)
+
+
+- 0515
+
+  Numpy新增敘述性統計以及py檔
+
+
+  新增Pandas pptx,以及ipynb檔和csv檔
